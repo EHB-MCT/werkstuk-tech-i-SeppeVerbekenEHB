@@ -5,8 +5,8 @@ Vul dit document aan, en deponeer de bestanden die je gebruikte in de beschikbar
 
 ## Eige informatie
 
-- Sepp Verbeken
-- A
+- Seppe Verbeken
+- groep A
 - Seppe,Bieke,Ali
 
 
