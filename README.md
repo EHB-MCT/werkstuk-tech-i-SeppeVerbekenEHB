@@ -5,37 +5,37 @@ Vul dit document aan, en deponeer de bestanden die je gebruikte in de beschikbar
 
 ## Eige informatie
 
-- Voornaam Achternaam
-- Klasgroep
-- Groepsnaam
+- Sepp Verbeken
+- A
+- Seppe,Bieke,Ali
 
 
 ## Storyline 
 
 Vul volgende elementen in, deze zullen dezelfde zijn voor iedereen in de groep. Zet een "!" naast het deel dat jij hebt gedaan en "!!" naast het element dat je dynamisch maakte
 
-1. (status quo)
-2. (Call to adventure)
-3. (Guidance)
-4. (Crossing)
-5. (Trials)
-6. (Approach)
-7. (Crisis)
-8. (Treasure)
-9. (Result)
-10. (Return)
-11. (New life)
-12. (Resolution)
-13. (new status quo)
+  1. De boerenjongen van 18 wilt de wereld voor iedereen verbeteren.
+  2. De jongen hoort hoe de rijken leven en er ontstaat een grote haat in zijn hart.
+  3. Hij leert iemand kennen uit een andere clan, samen komen zo op met een plan om naar mars te gaan waar de rijken wonen.
+  4. Na het bouwen van een rakket zijn ze op weg naar mars.
+  5. Wanneer ze aankomen op mars worden ze meteen gearresteerd door de elite politie. 
+  6. In de gevangenis krijgen ze te horen dat de aarde vernietigd zal worden, ze proberen te ontsnappen en de plannen tegen te houden.
+  7. Ze probeerden hun best om de leider tegen te houden maar falen, de aarde wordt vernietigd door een laserkannon.
+  8. De aardlingen waren toch op tijd ontsnapt van aarde en komen aan op mars waarna ze alle elite uitmoorden.
+  9. De aardlingen verdienen mars.
+! 10. De clans bouwen samen een leven op op de planeet mars.
+!!  11. De boerenjongen wordt koning van de kolonie.
+  12. Er starten weer conflicten tussen de clans.
+  13. Alles start opnieuw.
 
 ## Experience
 
-Leg uit hoe je de experience van de gebruiker vormgaf en waar je nog dingen zou toevoegen (licht, geluid, materiaal, etc)
+Ik wou dat de gebruiker blij werd van mijn tegel en een euforisch gevoel krijgt.
+Dit heb ik gedaan doormiddel van de kroon geel te spuiten, gele lampjes in de kroon vast te maken en gebruik gemaakt van lichte materialen.
+Ik zou nog graag geluid hebben toegevoegd(bv: een juichende menigte).
 
 ## Interaction
 
-Leg uit welke interaction je hebt toegevoegd, en hoe je deze duidelijk maakt aan de gebruiker. Voeg toe hoe je deze in de toekomst anders zou aanpakken, of waar je meer duidelijkheid zou creeeren indien nodig.
-
-
-
+Ik heb een button toegevoegd die geel was net als de kroon en de lichtjes op de kroon, als de gebruiker die knop dan indrukte zou het karakter bekroont worden.
+In de toekomst zou ik die button wel nog appart solderen en plaatsen op de voorgrond van mijn tegel in plaats van aan de achterkant van mijn tegel op het breadboard.
 
